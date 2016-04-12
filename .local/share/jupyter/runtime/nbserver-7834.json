@@ -1,0 +1,9 @@
+{
+  "secure": false,
+  "pid": 7834,
+  "hostname": "localhost",
+  "notebook_dir": "/nbhome/nicksinai",
+  "port": 41427,
+  "url": "http://localhost:41427/user/nicksinai/",
+  "base_url": "/user/nicksinai/"
+}
